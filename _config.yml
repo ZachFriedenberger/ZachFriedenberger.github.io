@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zachary Friedenberger"
 title_separator          : "-"
 name                     : &name "Zachary Friedenberger"
-description              : &description "PhD Student at the University of Ottawa"
+description              : &description "Physics Ph.D. student at the University of Ottawa."
 url                      : https://zachfriedenberger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zachfriedenberger.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zachary Friedenberger"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Physics Ph.D. student at the University of Ottawa."
+  location         : "Ottawa, ON, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/zachary.friedenberger.1/bibliography/public/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=udqEC6YAAAAJ"
   email            : "zfrie007@uottawa.ca"
   researchgate     : "https://www.researchgate.net/profile/Zach-Friedenberger"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2205-3387"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
