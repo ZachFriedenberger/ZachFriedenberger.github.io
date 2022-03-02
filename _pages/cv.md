@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Physics, University of Ottawa, 2022-Present
+* M.Sc. Physics, University of Ottawa, 2020-2022 (fast-tracked)
+* B.Sc. Physics and Mathematics, McGill University, 2015-2020
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2015: Undergraduate Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
