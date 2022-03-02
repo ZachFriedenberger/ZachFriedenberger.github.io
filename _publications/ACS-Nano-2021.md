@@ -6,6 +6,7 @@ excerpt: In this paper we used convex lens-induced confinement (CLiC) microscopy
 date: 2021
 venue: 'ACS Nano'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsnano.1c04862'
+---
 
 [Download paper here](http://ZachFriedenberger.github.io/files/Kamanzi et al 2021 - Simultaneous Single-Particle Measurements of Size and Loading Give Insights into the Structure of Drug-Delivery Nanoparticles.pdf)
 
