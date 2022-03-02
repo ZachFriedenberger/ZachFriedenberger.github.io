@@ -5,9 +5,9 @@ permalink: /publication/2021-ACS-Nano
 excerpt: In this paper we used convex lens-induced confinement (CLiC) microscopy to isolate and quantify the diffusive trajectories and fluorescent intensities of individual nanoparticles. We applied our method to investigate the size and loading properties of lipid nanoparticle (LNP) vehicles containing silencing RNA (siRNA), as a function of lipid formulation, solution pH, and drug-loading. By taking a comprehensive look at the correlation between the intensity and size measurements, we gain insights into LNP structure and how the siRNA is distributed in the LNPs.'
 date: 2021
 venue: 'ACS Nano'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsnano.1c04862'
 
-[Download paper here](http://academicpages.github.io/files/ACSNano2021.pdf)
+[Download paper here](http://ZachFriedenberger.github.io/files/Kamanzi et al 2021 - Simultaneous Single-Particle Measurements of Size and Loading Give Insights into the Structure of Drug-Delivery Nanoparticles.pdf)
 
 Citation:
 ```
